@@ -104,11 +104,9 @@ de CO2 de 250 ppm. Actualment superem
 les 410ppm. 
 A banda de l'efecte sobre el clima, l'increment
 de CO2 és greu perque ens afecta directament. Modifica el 
-nostre entorn, el nostre menjar i la nostra salut. 
-Els rangs són: menys de 1000ppm nivell bo o acceptable; 
+nostre entorn, el nostre menjar i la nostra salut.  
+Els rangs són: menys de 1000 ppm nivell bo o acceptable (500 a 800 es considera benestar a l'interior dels edificis); de 1.000 ppm fins a 2.000 ppm aire viciat (1.500 ppm límit superior de les condicions de benestar), cal ventilar; més de 2.000 nivells greus amb afectació a la salut a mitjà i llarg termini: cal ventilar immediatament. Altres referències: 18.000 ppm concentració màxima en submarins –	 35.000 ppm: problemes de respiració –	 45.000 ppm: aire exhalat per una persona –	 85.000 ppm: síntomes de paralització –	 200.000 ppm: mortal en poc temps 
 1000ppm fins 2000ppm aire viciat, cal ventilar la casa; 
-més de 2000 nivell greus amb afectació a la salut a 
-mig i llarg termini: cal ventilar inmediatament. 
 Segons l'IPCC (Grup Internacional del Canvi Climàtic), 
 la concentració de CO2 podria arribar a 670 ppm a finals de segle. 
 En l'escenari més pessimista, assoliria les 936 ppm. 
